@@ -1,0 +1,92 @@
+[
+  {
+    "law_number": 1,
+    "law_title": "The Field of Play",
+    "rule_count": 14
+  },
+  {
+    "law_number": 2,
+    "law_title": "The Ball",
+    "rule_count": 3
+  },
+  {
+    "law_number": 3,
+    "law_title": "The Players",
+    "rule_count": 10
+  },
+  {
+    "law_number": 4,
+    "law_title": "The Players' Equipment",
+    "rule_count": 6
+  },
+  {
+    "law_number": 5,
+    "law_title": "The Referee",
+    "rule_count": 6
+  },
+  {
+    "law_number": 6,
+    "law_title": "The Other Match Officials",
+    "rule_count": 7
+  },
+  {
+    "law_number": 7,
+    "law_title": "The Duration of the Match",
+    "rule_count": 5
+  },
+  {
+    "law_number": 8,
+    "law_title": "The Start and Restart of Play",
+    "rule_count": 3
+  },
+  {
+    "law_number": 9,
+    "law_title": "The Ball In and Out of Play",
+    "rule_count": 2
+  },
+  {
+    "law_number": 10,
+    "law_title": "Determining the Outcome of a Match",
+    "rule_count": 4
+  },
+  {
+    "law_number": 11,
+    "law_title": "Offside",
+    "rule_count": 4
+  },
+  {
+    "law_number": 12,
+    "law_title": "Fouls and Misconduct",
+    "rule_count": 6
+  },
+  {
+    "law_number": 13,
+    "law_title": "Free Kicks",
+    "rule_count": 3
+  },
+  {
+    "law_number": 14,
+    "law_title": "The Penalty Kick",
+    "rule_count": 4
+  },
+  {
+    "law_number": 15,
+    "law_title": "The Throw-in",
+    "rule_count": 3
+  },
+  {
+    "law_number": 16,
+    "law_title": "The Goal Kick",
+    "rule_count": 3
+  },
+  {
+    "law_number": 17,
+    "law_title": "The Corner Kick",
+    "rule_count": 14
+  },
+  {
+    "law_number": "VAR",
+    "law_title": "Video assistant referee (VAR) protocol",
+    "rule_count": 50
+  }
+]

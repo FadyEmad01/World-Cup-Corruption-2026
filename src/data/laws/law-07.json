@@ -1,0 +1,41 @@
+{
+  "law_number": 7,
+  "law_title": "The Duration of the Match",
+  "rules": [
+    {
+      "law_number": "7",
+      "law_title": "The Duration of the Match",
+      "specific_rule": "1. Periods of play",
+      "exact_quote": "A match lasts for two equal halves of 45 minutes, which may only be reduced if agreed between the referee and the two teams before the start of the match and if in accordance with competition rules.",
+      "page_number": 93
+    },
+    {
+      "law_number": "7",
+      "law_title": "The Duration of the Match",
+      "specific_rule": "2. Half-time interval",
+      "exact_quote": "Players are entitled to an interval at half-time, not exceeding 15 minutes; a short drinks break (which should not exceed one minute) is permitted at the interval of half-time in extra time. Competition rules must state the duration of the half-time interval and it may be altered only with the referee’s permission.",
+      "page_number": 93
+    },
+    {
+      "law_number": "7",
+      "law_title": "The Duration of the Match",
+      "specific_rule": "3. Allowance for time lost",
+      "exact_quote": "Allowance is made by the referee in each half for all playing time lost in that half through: • substitutions • assessment and/or removal of injured players • wasting time • disciplinary sanctions • medical stoppages permitted by competition rules, e.g. ‘drinks’ breaks (which should not exceed one minute) and ‘cooling’ breaks (ninety seconds to three minutes) • delays relating to VAR ‘checks’ and ‘reviews’ • goal celebrations • any other cause, including any significant delay to a restart (e.g. due to interference by an outside agent) The Duration of the Match The fourth official indicates the minimum additional time decided by the referee at the end of the final minute of each half. The additional time may be increased by the referee but not reduced. The referee must not compensate for a timekeeping error during the first half by changing the length of the second half.",
+      "page_number": 94
+    },
+    {
+      "law_number": "7",
+      "law_title": "The Duration of the Match",
+      "specific_rule": "4. Penalty kick",
+      "exact_quote": "If a penalty kick has to be taken or retaken, the half is extended until the penalty kick is completed.",
+      "page_number": 94
+    },
+    {
+      "law_number": "7",
+      "law_title": "The Duration of the Match",
+      "specific_rule": "5. Abandoned match",
+      "exact_quote": "An abandoned match is replayed unless the competition rules or organisers determine otherwise.",
+      "page_number": 94
+    }
+  ]
+}
