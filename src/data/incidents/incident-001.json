@@ -1,3 +1,41 @@
 {
-  
+  "id": "incident-001",
+  "title": "Wrongful red card for accidental step on ankle",
+  "summary": "Folarin Balogun receives a straight red card for accidentally stepping on Tarik Muharemovic's ankle during USA vs Bosnia Round of 32 — no malice, no intent, disproportionate punishment.",
+  "match": "United States vs Bosnia and Herzegovina — Round of 32",
+  "teams": { "home": "United States", "away": "Bosnia and Herzegovina" },
+  "tournament": "FIFA World Cup 2026",
+  "competitionStage": "Round of 32",
+  "date": "2026-07-01",
+  "referee": "Raphael Claus",
+  "minute": "61'",
+  "description": "In the 61st minute, with the USA leading 1-0 on a Folarin Balogun goal, Balogun challenged for the ball with Bosnian centre-back Tarik Muharemovic. As Balogun attempted to plant his right boot after hitting the underside of the opponent's boot, he lost his balance and his studs sank into Muharemovic's Achilles tendon rather than the turf. There was zero malice or intent — the contact was purely accidental as Balogun was off-balance and could not control his footing. Referee Claus was escorted to the pitchside monitor for a VAR review. After reviewing slow-motion replays, he determined the contact constituted 'serious foul play' and issued a straight red card. The USA were forced to play the remaining ~70 minutes with 10 men. Balogun was subsequently suspended for the Round of 16 match against Belgium, a fixture the USA ultimately lost 0-3. The ban was later overturned by FIFA following a request from US President Trump, confirming the initial decision was widely considered erroneous.",
+  "videos": [
+    { "url": "https://www.youtube.com/watch?v=q2vuQnAStS", "title": "Balogun red card moment" },
+    { "url": "https://www.youtube.com/watch?v=IQ9jKQ1MhUw", "title": "Messi comparison - same incident pattern Argentina vs Algeria 2026" }
+  ],
+  "images": [
+    { "url": "https://img.a.scorecardy.com/cover.png", "caption": "Balogun stomps on Muharemovic's ankle" },
+    { "url": "https://img.a.scorecardy.com/cover.png", "caption": "Messi identical foul vs Algeria in same WC - no card given" }
+  ],
+  "rules": [
+    {
+      "lawNumber": 12,
+      "lawTitle": "Fouls and Misconduct",
+      "explanation": "Law 12 defines serious foul play as 'a tackle or challenge that endangers the safety of an opponent or uses excessive force or brutality.' Balogun was NOT making a tackle or challenge — he was attempting to regain his footing after slipping. No excessive force was applied. The contact was accidental, not deliberate. A yellow card at most would have been proportionate. Additionally, the VAR Protocol explicitly states: 'slow motion replays should only be used for facts... normal speed should be used for the intensity of an offense.' The referee used slow motion to determine intensity, which is a protocol violation."
+    },
+    {
+      "lawNumber": 5,
+      "lawTitle": "The Referee",
+      "explanation": "Law 5 states the referee is the judge of facts and may take disciplinary action only when the ball is in play. The referee failed to exercise discretionary judgement — the initial on-field decision was only a foul (no card). The VAR-initiated review escalated it to a red card for contact that was not 'serious' by any reasonable standard. This is a textbook case of VAR overreach."
+    },
+    {
+      "lawNumber": 3,
+      "lawTitle": "Players",
+      "explanation": "The Laws must be applied uniformly. In the exact same tournament, Lionel Messi landed on an Algerian opponent (Aissa Mandi) in a strikingly similar manner during Argentina vs Algeria (June 16, 2026). No card was given. This inconsistency demonstrates selective enforcement that undermines the integrity of the game."
+    }
+  ],
+  "severity": "critical",
+  "wasVARUsed": true,
+  "varOutcome": "Straight red card issued based on slow-motion VAR review; ban later overturned by FIFA after political intervention"
 }

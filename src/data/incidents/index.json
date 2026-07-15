@@ -1,3 +1,14 @@
 [
-
+  {
+    "id": "incident-001",
+    "title": "Wrongful red card for accidental step on ankle",
+    "summary": "Folarin Balogun receives a straight red card for accidentally stepping on Tarik Muharemovic's ankle during USA vs Bosnia Round of 32 — no malice, no intent, disproportionate punishment.",
+    "date": "2026-07-01",
+    "severity": "critical",
+    "image": "https://img.a.scorecardy.com/cover.png",
+    "teams": {
+      "home": "United States",
+      "away": "Bosnia and Herzegovina"
+    }
+  }
 ]
